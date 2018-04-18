@@ -1,0 +1,18 @@
+c:\users\maggie\documents\visual studio 2015\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Maggie\Documents\Visual Studio 2015\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+D:\01 ItCarlow\01 Subjects\Discrete  structure & Algorithims II\Áine Byrne\Programs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
